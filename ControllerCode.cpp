@@ -16,7 +16,7 @@ const int pin1 = A0;
 const int pin2 = A4;
 //add as many as you have
 
-//seet up data struct with as much data as you want to send
+//set up data struct with as much data as you want to send
 struct Controls {
   int one = 0;
   int two = 0;
